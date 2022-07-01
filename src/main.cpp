@@ -40,6 +40,7 @@ void escribirArchivo(string pathFile)
 				case MAR : f << "marzo" 	<< ENTER; break;
 				case ABR : f << "abril" 	<< ENTER; break;
 				case MAY : f << "mayo" 	<< ENTER; break;
+				case JUN : f << "junio" 	<< ENTER; break;
 				default:
 					f << "otro mes" << ENTER;
 					break;
