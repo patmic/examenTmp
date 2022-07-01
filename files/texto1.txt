@@ -1,2 +1,2 @@
-holas este un archivos de pruebas
+hola este un archivos de pruebas
 ...
