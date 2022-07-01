@@ -1,2 +1,2 @@
 # examenTmp
-proyecto de examen con repositorio
+proyecto de examen
