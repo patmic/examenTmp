@@ -1,3 +1,3 @@
 # examenTmp
-proyecto de examen
+proyecto de examen en C
 de la proxima semana
